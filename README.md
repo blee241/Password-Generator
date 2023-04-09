@@ -7,7 +7,7 @@ This password generator is a practical application that demonstrates the usefuln
 
 ## Installation
 
-This live website does not require installation.
+This live website does not require installation. Access it here: https://blee241.github.io/Password-Generator/.
 
 ## Usage
 
